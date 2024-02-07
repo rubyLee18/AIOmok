@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\sworl\source\repos\Omok_project\Omok_project\gameboard.h(488): warning C4715: 'GameBoard::check_5': 모든 제어 경로에서 값을 반환하지는 않습니다.
+main.obj : error LNK2019: "public: __thiscall Location::Location(void)" (??0Location@@QAE@XZ)"public: __thiscall GameBoard::GameBoard(void)" (??0GameBoard@@QAE@XZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 "class Location (* point)[19]" (?point@@3PAY0BD@VLocation@@A)
+C:\Users\sworl\source\repos\Omok_project\Debug\Omok_project.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.
